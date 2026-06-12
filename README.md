@@ -111,7 +111,7 @@ This keeps the page smooth and fast!
 ## UI Screenshots
 
 ### Post List View
-![List View](Screenshot 2026-06-12 235443.png)
+![List View](Screenshot_2026-06-12_235443.png)
 
 ### Post Details and Comments View
 ![Details and Comments View](Screenshot-2026-06-12-235102.png)
