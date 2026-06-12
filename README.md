@@ -114,4 +114,4 @@ This keeps the page smooth and fast!
 ![List View](post-get.png)
 
 ### Post Details and Comments View
-![Details and Comments View](post-details-comments.png)
+![Details and Comments View](Screenshot-2026-06-12-235102.png)
