@@ -1,4 +1,4 @@
-# React Posts App
+# React UI with State Management & API Integration
 
 This is a simple React application that fetches posts and articles from the DummyJSON API and displays them in a clean layout. This supports Search with Debounce, Pagination, Details without using component libraries (no MUI, shadcn, etc.).
 
